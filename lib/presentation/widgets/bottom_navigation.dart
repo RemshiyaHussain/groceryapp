@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:groceryapp/presentation/screen/cart_screen.dart';
+import 'package:groceryapp/presentation/screen/cart/cart_screen.dart';
 import 'package:groceryapp/presentation/screen/category/category_screen.dart';
-import 'package:groceryapp/presentation/screen/home_screen.dart';
-import 'package:groceryapp/presentation/screen/profile_screen.dart';
+import 'package:groceryapp/presentation/screen/home/home_screen.dart';
+import 'package:groceryapp/presentation/screen/profile/profile_screen.dart';
 
 class BottomNavigation extends StatefulWidget {
   const BottomNavigation({super.key});

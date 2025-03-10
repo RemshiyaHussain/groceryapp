@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:groceryapp/presentation/common_widget/bottom_navigation.dart';
+import 'package:groceryapp/presentation/widgets/bottom_navigation.dart';
 
-import 'package:groceryapp/presentation/screen/sign_in_screen.dart';
+import 'package:groceryapp/presentation/screen/authentication/sign_in_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
